@@ -9,6 +9,6 @@
 ## 如果启动失败，先删除日志记录
 `rm -rf /tmp/kafka-logs/`
 
-` rm -rf /tmp/zookeeper/`
+`rm -rf /tmp/zookeeper/`
 
 
